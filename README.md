@@ -8,3 +8,12 @@ Gameplay
   -all the variables, paint function and action event and key events are defined in this class only
 Mapgenerator
   -it has the map of bricks in which there are 21 bricks on the map
+
+
+![image](https://user-images.githubusercontent.com/58850321/222661340-e7dd4723-29f8-4137-8f9f-b1f08c910062.png)
+
+
+![image](https://user-images.githubusercontent.com/58850321/222661540-7fc46893-7634-4d91-9c31-4247794319a0.png)
+
+
+
